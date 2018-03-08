@@ -3,8 +3,12 @@ A PyTorch-based implementation of AlphaGo Zero algorithm for gobang game.
 Also, provide a OpenGym style environment interface for gobang game
 
 # Run
+
 ## training
+
+``` python
 python train.py
+```
 
 # Result
 ## 5\*5 board, n_in_row is 4
