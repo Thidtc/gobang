@@ -1,6 +1,6 @@
 # Gobang
-A PyTorch-based implementation of AlphaGo Zero algorithm for gobang game
-also, provide a OpenGym style environment interface for gobang game
+A PyTorch-based implementation of AlphaGo Zero algorithm for gobang game.
+Also, provide a OpenGym style environment interface for gobang game
 
 # Run
 ## training
