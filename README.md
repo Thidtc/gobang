@@ -11,7 +11,7 @@ python train.py
 ```
 
 # Result
-## 5\*5 board, n_in_row is 4
+## 6\*6 board, n_in_row is 4
 * training time
 
   2~3 hours
