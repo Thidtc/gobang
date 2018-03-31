@@ -3,8 +3,8 @@ This is a PyTorch-based implementation of AlphaGo Zero algorithm for gobang game
 Also, provide an OpenAI Gym style environment interface for gobang game
 
 ## Environment
-Python 3.*
-PyTorch 0.3.*
+* Python 3.*
+* PyTorch 0.3.*
 
 ## Usage
 
