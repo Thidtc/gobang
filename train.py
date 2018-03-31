@@ -51,7 +51,7 @@ if __name__ == '__main__':
   logger.addHandler(console_handler)
   logger.setLevel(logging.DEBUG)
 
-  # Cudata device initialization
+  # Cuda device initialization
   torch.cuda.set_device(args.gpu)
 
   env = GobangEnv(args)
